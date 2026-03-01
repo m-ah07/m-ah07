@@ -1,23 +1,46 @@
-## Hi 👋
+# Marwan Ahmed
 
-I'm **Marwan Ahmed**, a passionate and versatile software developer with a strong background in creating innovative and efficient solutions for web and mobile platforms. With years of experience in software development, I specialize in building scalable, user-focused applications while maintaining high standards of code quality and performance.
+Digital Systems Architect | Full-Stack & Mobile Developer | Software Consultant
 
-## 🌟 What I Do:
-- Design and develop full-stack applications with a focus on clean, maintainable code.
-- Create intuitive and seamless user experiences across web and mobile platforms.
-- Optimize databases and backend systems to support high-performance applications.
-- Share technical knowledge through open-source projects and community contributions.
+I build integrated digital systems and mobile applications that transform business goals into scalable, maintainable products with measurable impact.
 
-## 💡 What Drives Me:
-I am driven by a passion for solving complex problems and delivering meaningful solutions that improve everyday life. I enjoy learning new technologies, collaborating with others, and contributing to open-source projects to help empower the developer community.
+## About
+- Design and deliver end-to-end digital products from strategy and architecture to implementation and continuous improvement.
+- Help founders and teams make confident technical decisions through clear roadmaps and practical execution plans.
+- Focus on clean architecture, high performance, maintainability, and business-driven outcomes.
+- Build bilingual digital experiences (Arabic/English) for broader regional and global reach.
 
-## 🌐 Explore My Work:
-I strive to merge creativity with technical expertise to develop tools and services that address real-world challenges. My repositories are a reflection of my commitment to open-source and knowledge sharing.
+## Services
+- Software architecture and technical consulting.
+- Full-stack web platform development.
+- Mobile app development with `Flutter` for Android and iOS.
+- API-driven systems, integrations, and backend connectivity for applications.
+- Performance optimization, refactoring, and long-term codebase quality improvements.
+- System modernization and product scaling support.
 
+## Mobile App Development
+- Build cross-platform applications using `Flutter` and `Dart`.
+- Implement maintainable app architecture and reusable UI components.
+- Integrate mobile apps with backend APIs and authentication workflows.
+- Optimize application performance, responsiveness, and user experience.
+- Prepare production-ready builds and release workflows for Google Play and App Store.
 
+## Tech Stack
+- Mobile: `Flutter`, `Dart`, API integration, app deployment workflows
+- Backend: `PHP`, `Laravel`, `REST APIs`
+- Frontend: `JavaScript`, `HTML5`, `CSS3`
+- Architecture: `System Design`, `Technical Planning`, `Performance Engineering`
+- Tooling: `Vite`, `Git`, modern development and delivery workflows
 
-## Get in Touch
-- **Email**: info@eng-marwan.com
-- **Website**: [eng-marwan.com](https://eng-marwan.com)
-- **LinkedIn**: [Marwan Ahmed](https://www.linkedin.com/in/marwan-ah)
-- **GitHub**: [m-ah07](https://github.com/m-ah07)
+## Open to Collaborate
+I am available for:
+- Software consulting and architecture advisory engagements.
+- Building integrated digital systems and mobile apps from idea to deployment.
+- Improving existing products in architecture, performance, and maintainability.
+
+## Contact
+- Email: [info@eng-marwan.com](mailto:info@eng-marwan.com)
+- Website: [eng-marwan.com](https://eng-marwan.com)
+- LinkedIn: [Marwan Ahmed](https://www.linkedin.com/in/marwan-ah)
+- GitHub: [m-ah07](https://github.com/m-ah07)
+- Availability: Open to consulting, product development, and strategic technical partnerships.
